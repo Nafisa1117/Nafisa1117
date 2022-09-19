@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafisa Parveen</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-Dedicated Java Backend Developer with proven performance in management, communication, and creative thinking skills. A problem-solving mindset with a goal to optimize my application for better stability and speed. Always hard working and looking forward to learning new skills.
- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dedicated Java Backend Developer with proven performance in management, communication, and creative thinking skills. A problem-solving mindset with a goal to optimize my application for better stability and speed. Always hard working and looking forward to learning new skill
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisa1117&label=Profile%20views&color=0e75b6&style=flat" alt="nafisa1117" /> </p>
 
