@@ -13,7 +13,7 @@ Dedicated Java Backend Developer with proven performance in management, communic
 
 - 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 👨‍💻 Checkout my [ Portfolio ](https://charming-moxie-4b3032.netlify.app) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 Checkout my [ Portfolio ](https://nafisa-portfolio.netlify.app) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VebcjBEOHY4Fj4DNvp36zWfwgxgJs9Cp/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
