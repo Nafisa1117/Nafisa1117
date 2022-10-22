@@ -17,6 +17,8 @@ Dedicated Java Backend Developer with proven performance in management, communic
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VebcjBEOHY4Fj4DNvp36zWfwgxgJs9Cp/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cuPo9LmZIWi1GhU6FU3Dm6ylJW9y4Y-U/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
 - 📫 How to reach me **arshirayeen700@gmail.com**  &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
