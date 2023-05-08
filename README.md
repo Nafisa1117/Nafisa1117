@@ -44,12 +44,12 @@ Dedicated Java Backend Developer with proven performance in management, communic
 
 
 
-<!-- <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h3>
 <p align="left">
 <a href="https://twitter.com/nafisaparveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafisaparveen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nafisa-parveen-4a561922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisa-parveen-4a561922b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arshirayeen700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arshirayeen700" height="30" width="40" /></a>
-</p> -->
+</p>
 
 
 
@@ -81,9 +81,9 @@ Dedicated Java Backend Developer with proven performance in management, communic
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-<!-- | Top Languages | Contribution Graph  |
+| Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafisa1117&show_icons=true&theme=cobalt" alt="Nafisa's Language stats" /> | [![Nafisa's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nafisa1117&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Nafisa1117/github-readme-activity-graph) | -->
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafisa1117&show_icons=true&theme=cobalt" alt="Nafisa's Language stats" /> | [![Nafisa's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nafisa1117&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Nafisa1117/github-readme-activity-graph) |
 
 <div aling="left">
   
