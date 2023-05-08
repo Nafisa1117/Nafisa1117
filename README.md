@@ -81,9 +81,9 @@ Dedicated Java Backend Developer with proven performance in management, communic
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-| Top Languages | Contribution Graph  |
+<!-- | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafisa1117&show_icons=true&theme=cobalt" alt="Nafisa's Language stats" /> | [![Nafisa's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nafisa1117&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Nafisa1117/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafisa1117&show_icons=true&theme=cobalt" alt="Nafisa's Language stats" /> | [![Nafisa's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nafisa1117&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Nafisa1117/github-readme-activity-graph) | -->
 
 <div aling="left">
   
