@@ -11,7 +11,7 @@ Dedicated Java Backend Developer with proven performance in management, communic
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisa1117&label=Profile%20views&color=0e75b6&style=flat" alt="nafisa1117" /> </p>
 
 
-- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🌱 I’m currently learning **Angular** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 👨‍💻 Checkout my [ Portfolio ](https://nafisa1117.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
